@@ -132,7 +132,7 @@ form h2{
 footer{
   position: absolute;
   bottom: 0;
-  padding: 20px;
+  padding-top: 20px;
 }
 footer p span{
   color: #1775bb;
