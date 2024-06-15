@@ -20,7 +20,7 @@ nav img{
   display: inline;
   padding: 10px 10px ;
 }
-body{
+.container{
   width: auto;
   height: 100vh;
   background: #ffffff;
